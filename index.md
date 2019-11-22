@@ -1,10 +1,7 @@
-{% for page in site.pages %}
-    <a href={{ page.index. md }}>{{ page.HOME }}</a>
-{% endfor %}
 ---
 title: HOME
 layout: template
-filename: index. md
+filename: index.md
 --- 
 <!-- Navigation -->
 <nav class="w3-bar w3-black">
@@ -46,7 +43,7 @@ Department of Information System
 ---
 title: INFORMATION SYSTEM
 layout: template
-filename: index. md
+filename: index.md
 --- 
 
 <!-- Navigation -->
