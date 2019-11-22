@@ -1,4 +1,8 @@
-
+---
+title: PAGE TITLE HERE
+layout: template
+filename: NAME OF THIS .md FILE HERE
+--- 
 <!-- Navigation -->
 <nav class="w3-bar w3-black">
 
