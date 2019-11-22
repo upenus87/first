@@ -38,5 +38,4 @@ Department of Information System
                     <a href ="ContactUs.html" title ="ContactUs">Contact Us</a>
                 </p>
 
-</body>
-</html>
+
