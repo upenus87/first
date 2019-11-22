@@ -23,17 +23,17 @@ filename: index.md
       <button type="submit"><i class="fa fa-search"></i></button>
     </form>
   </div>
+<div
 <h1>
 Department of Information System
-</h1>
+</h1></div>
 <div id="Big box">
  <div id="picture">
  <img src="https://styleguide.umbc.edu/files/2019/01/UMBC-primary-logo-RGB-1024x236.png" />
  </div>
- <div id="text">
- Image
     <h2>UMBC News</h2>
- </div>
+/body>
+</html>
  <p>
 <a href="Home.html" title="Home">Home</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
                     <a href="Information System.html" title="Information System">Information System</a>
@@ -55,9 +55,9 @@ filename: index.md
 
 </nav>
 
-</body>
-</html>
 
+<body>
+<html>
  
 <h1>
 Undergraduate program Information System
@@ -125,7 +125,8 @@ Students may not repeat IS 300 or 310 more than once.</p>
 
 <p>There are also several special courses, including IS 399, IS 478, IS 479, IS 469, IS 397, and IS 467, among others, that cannot be used to satisfy the IS upper-level elective requirement, but that students can use to gain academic credit for internships, coops, and research projects. See your advisor for more information.</p>
 <p>
-
+</body>
+</html>
 <a href="Home.html" title="Home">Home</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
                     <a href="Information System.html" title="Information System">Information System</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
                     <a href ="ContactUs.html" title ="ContactUs">Contact Us</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
