@@ -1,5 +1,5 @@
 ---
-title: information_system.md
+title: information_system .md
 layout: template
 filename: informatin_system .md FILE HERE
 ---
