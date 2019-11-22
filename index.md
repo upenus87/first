@@ -41,10 +41,10 @@ Department of Information System
                 </p>
 
 ---
-title: information_system.md
+title: INFORMATION SYSTEM
 layout: template
-filename: informatin_system.md FILE HERE
----
+filename: index. md
+--- 
 
 <!-- Navigation -->
 <nav class="w3-bar w3-black">
