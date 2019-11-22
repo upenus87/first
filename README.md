@@ -1,7 +1,7 @@
 ---
-title: PAGE TITLE HERE
+title: UMBC HOME PAGE
 layout: template
-filename: NAME OF THIS .md FILE HERE
+filename: HOME .md
 --- 
 <!-- Navigation -->
 <nav class="w3-bar w3-black">
