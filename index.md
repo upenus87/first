@@ -1,5 +1,5 @@
 {% for page in site.pages %}
-    <a href={{ page.index. md }}>{{ page.title }}</a>
+    <a href={{ page.index. md }}>{{ page.HOME }}</a>
 {% endfor %}
 ---
 title: HOME
