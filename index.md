@@ -7,8 +7,10 @@ filename: HOME .md
 <nav class="w3-bar w3-black">
 
   <a href="home.html" class="w3-button w3-bar-item">Home</a>
+  
   <a href="Undergraduate.html" class="w3-button w3-bar-item">Undergraduate(IFSM)</a>
-  <a href="contact_us.html" class="w3-button w3-bar-item">Contact us</a>
+ 
+ <a href="contact_us.html" class="w3-button w3-bar-item">Contact us</a>
 
 </nav>
 
