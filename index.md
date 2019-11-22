@@ -32,7 +32,7 @@ Department of Information System
  <img src="https://styleguide.umbc.edu/files/2019/01/UMBC-primary-logo-RGB-1024x236.png" />
  </div>
     <h2>UMBC News</h2>
-/body>
+
 </html>
  <p>
 <a href="Home.html" title="Home">Home</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
