@@ -1,7 +1,7 @@
 ---
 title: UMBC HOME PAGE
 layout: template
-filename: HOME .md
+filename: index. md
 --- 
 <!-- Navigation -->
 <nav class="w3-bar w3-black">
