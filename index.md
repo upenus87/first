@@ -41,9 +41,9 @@ Department of Information System
                 </p>
 
 ---
-title: information_system .md
+title: information_system.md
 layout: template
-filename: informatin_system .md FILE HERE
+filename: informatin_system.md FILE HERE
 ---
 
 <!-- Navigation -->
