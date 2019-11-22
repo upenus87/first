@@ -1,5 +1,8 @@
+{% for page in site.pages %}
+    <a href={{ page.index. md }}>{{ page.title }}</a>
+{% endfor %}
 ---
-title: UMBC HOME PAGE
+title: HOME
 layout: template
 filename: index. md
 --- 
