@@ -21,9 +21,7 @@ filename: informatin_system .md FILE HERE
 Undergraduate program Information System
 </h1>
 
-    <p>The BS program prepares students for all potential career positions in the IS field. These include: Systems Analysis and Design, Computer Networking and Health Care Informatics.</p>
-
-<p>For successful completion of the degree, all students must satisfy the general education requirements that are explained in the UMBC Undergraduate Catalog.</p>
+<p>The BS program prepares students for all potential career positions in the IS field. These include: Systems Analysis and Design, Computer Networking and Health Care InformaticsFor successful completion of the degree, all students must satisfy the general education requirements that are explained in the UMBC Undergraduate Catalog.</p>
 
 <p>The required program courses for the Bachelor of Science Degree are below. Course descriptions can be found in the Course Catalog.</p>
 
